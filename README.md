@@ -1,0 +1,2 @@
+# vidyaloy
+Vidyaloy magazine
